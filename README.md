@@ -11,7 +11,6 @@ I build scalable, high-performance applications across mobile, web, and backend 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=vercel)](https://nwoyefidelis-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:nwoyefidelischidera@gmail.com)
 
-
 ---
 
 ## 🧠 About Me
@@ -49,17 +48,17 @@ I build scalable, high-performance applications across mobile, web, and backend 
 
 ## 🚀 Projects
 
-* 🛒 **E-commerce Platform** – Multi-vendor system with real-time features
-* 🤖 **AI Chatbot** – Intelligent conversational UI with API integration
+* 🛒 **E-commerce Platform** – Multi-vendor system with cart & authentication
+* 🤖 **AI Chatbot** – Conversational UI with API integration
 * 📱 **Mobile UI Systems** – Scalable Flutter applications
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delis2001&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Delis2001&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delis2001\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delis2001\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Delis2001\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Delis2001\&theme=tokyonight)
 
 ---
 
