@@ -57,7 +57,7 @@ I build scalable, high-performance applications across mobile, web, and backend 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delis2001\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delis2001&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delis2001\&layout=compact\&theme=tokyonight)
 
