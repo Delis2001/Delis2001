@@ -10,7 +10,7 @@ I build scalable, high-performance applications across mobile, web, and backend 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=vercel)](https://nwoyefidelis-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:nwoyefidelischidera@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge\&logo=github)](https://github.com/Delis2001)
+
 
 ---
 
