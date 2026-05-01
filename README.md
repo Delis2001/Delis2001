@@ -8,8 +8,9 @@ I build scalable, high-performance applications across mobile, web, and backend 
 
 ## 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=vercel)](https://nwoyefidelis-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:nwoyefidelischidera@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://nwoyefidelis-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nwoyefidelischidera@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/2348121685344)
 
 ---
 
